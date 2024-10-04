@@ -1,0 +1,5 @@
+
+2. How do you access the top 6 and last 3 rows of a pandas dataframe?
+The head() method in pandas is used to access the initial rows of a dataframe, and tail() method is used to access the last rows.
+to access the top 6 rows: dataframe_name.head(6)
+to access the last 3rows: dataframe_name.tail(3)
