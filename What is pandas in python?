@@ -1,0 +1,6 @@
+1.What is pandas in python?
+
+Pandas is an open source python library with powerful and built in methods to efficiently clean,
+analyze, and manipulate datasets. This powerful package can easily blend with various other datascience modules in python. 
+It is built on top of Numpy Library, i.e. data structures series and dataframe are the upgraded versions of Numpy arrays.
+
